@@ -1,0 +1,31 @@
+CCTECH WORKSPACE - SEPARATE REPOSITORY UPLOAD
+
+Folder to upload: D:\CCTech Workspace
+Repository name: cctech-workspace
+Owner: cctechitsolutions
+
+Create: https://github.com/new
+Choose Public. Leave README, licence and .gitignore initialisation unchecked.
+Create repository, then use Upload files.
+Select the CONTENTS of D:\CCTech Workspace. Do not upload the ZIP file.
+Keep index.html at the root; do not add another workspace/ folder around it.
+Commit to main.
+
+Settings > Pages > Deploy from a branch > main > /(root) > Save.
+After GitHub Pages succeeds, the expected app address is:
+https://cctechitsolutions.github.io/cctech-workspace/
+
+Meta privacy URL, after the page is live:
+https://cctechitsolutions.github.io/cctech-workspace/privacy-policy.html
+Meta data deletion instructions URL, after the page is live:
+https://cctechitsolutions.github.io/cctech-workspace/data-deletion.html
+
+In the new workspace, save Public workspace URL as:
+https://cctechitsolutions.github.io/cctech-workspace
+
+Supabase data, logins, secrets and the clever-worker callback remain unchanged.
+No new Supabase project is needed. Do not rerun SQL just because of this move.
+Leave the old workspace running until the new address is verified.
+
+WhatsApp and Instagram automation still need channel setup and end-to-end tests.
+This upload alone does not activate them or approve paid messaging.
